@@ -156,7 +156,7 @@ TrailRenderer:
       m_RotationOrder: 4
     colorGradient:
       serializedVersion: 2
-      key0: {r: 1, g: 0.95709896, b: 0, a: 1}
+      key0: {r: 1, g: 0, b: 0.10509062, a: 1}
       key1: {r: 1, g: 0.6981857, b: 0, a: 1}
       key2: {r: 0, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
@@ -240,7 +240,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 30
-  atk: 50
+  atk: 25
 --- !u!54 &7887740421481487250
 Rigidbody:
   m_ObjectHideFlags: 0
